@@ -1,6 +1,8 @@
 # Test-Reclutamiento
 Test solicitado en un proceso de reclutamiento 
 
+Estare subiendo el codigo mas adelante, mientras comparto el enlace
+
 
 API de Catálogo de Productos
 Estás encargado de desarrollar una API y una interfaz de usuario para un catálogo de productos. El propósito de esta herramienta es:
